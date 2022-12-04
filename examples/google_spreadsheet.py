@@ -46,7 +46,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 DHT_TYPE = Adafruit_DHT.DHT22
 
 # Example of sensor connected to Raspberry Pi pin 23
-DHT_PIN  = 23
+DHT_PIN  = 4
 # Example of sensor connected to Beaglebone Black pin P8_11
 #DHT_PIN  = 'P8_11'
 
@@ -69,10 +69,10 @@ DHT_PIN  = 23
 # Then use the File -> Share... command in the spreadsheet to share it with read
 # and write acess to the email address above.  If you don't do this step then the
 # updates to the sheet will fail!
-GDOCS_OAUTH_JSON       = 'your SpreadsheetData-*.json file name'
+GDOCS_OAUTH_JSON       = 'raspi-alford-45-sensor-d0ead3922a3c.json'
 
 # Google Docs spreadsheet name.
-GDOCS_SPREADSHEET_NAME = 'your google docs spreadsheet name'
+GDOCS_SPREADSHEET_NAME = 'alford45pi3-temperature'
 
 # How long to wait (in seconds) between measurements.
 FREQUENCY_SECONDS      = 30
