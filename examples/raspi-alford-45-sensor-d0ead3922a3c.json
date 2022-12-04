@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raspi-alford-45-sensor",
+  "private_key_id": "d0ead3922a3cc0ca9ef97317aed4e20734304562",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4PiZa6faV4Pyu\n3SH96Uvbl6trcHSutS+tO23UXgPqeqULmPeuw/yn03ikGzKPnibWEKNNJOia4gX8\nMvg9HpC66aS2mqd9g4h/wHW+nFe5k8zLlUg6RZtFoPsjSCcyvGnZ9pQg4RDCKF8I\nu+13ohbPUDDo5f17dWHCuYcIfgTKjtL4peSOwhx3KULhPHVaZh8PrwH/dLExiz6b\nGU0K8WL8zNTLDgPIKpKdGgccQfKpPbLnPXsBid+CME7z0jDUKZvcNSjqIguWnUqJ\nXs5qL3YpbwSs+X0lTbNZiSn/U7U3jIoa1rhnHr8SdlfoSUY5bgKycIWOEicF4yQ6\naAHccIYNAgMBAAECggEAAuFR1yz+IlSsjo09aUs62NlzoA/Xex2w+5vIuT+o/wLg\nzqAbCxvcOMFpCuOz9CPMRp9m9h9EFZu/7TPcxpPSPmHFpecgBCnIufqHvK2T/34s\nfug8A1EwPrPoCSKpHjVs0C/3G9Z43RgleCz75tldUutVgGaMAmCQ4SrmTf8uUv5G\nx7izqBeZcuFBMt8yzfliF45KwibcmmhqwHylXkkSMhvxtLwyjvVqGeRAhACeDr7V\nFuU2qXz3xLIuNLW4c8TflZ1u6bU2YKlSsik5VpH0A6NSi3JKApXClbkR7eRvJmnt\n2dlPJxB9ktIVeDVWAUI7+EW1QTpwsFnoFL8uYUEsYQKBgQDmYicTYf8XItDtX+o6\n/9/PqQKYWnQ1k1q/RAXZDxjkzZGb1vpolCePT8tAeINAX09gY5YJ6D6oFt03HWXu\nMJLQN98XlQioGJU2/bKblqF3oJ+Xfg/5QNFyoYyp2GNq0xRU5oJMLagETgkaIpRw\nbogqiIwKicy0b0kdRsEAnQMn0QKBgQDMupt1ZWuNpKFHWv2Zo5Epz0bCPYW6pQ5Z\nYfigmqiFYsvStWGeqZYNGH7Gk3g3QhZYFGH2G8KYFMEwWmB5vV68BwiZOxSenrcm\nykl/Ny7lBio2JJVxLuGpLAQVdq8P1YUCqNubO61LHnfp3X5O9bEwHnqGhuijfdcD\nqj9mFu8FfQKBgQCi50KkNQYQUQEU6F6S631RtDtuiX9kptZjKnFMI53BpA5S+LdG\nHYS/lHevFcgRS5OwH5rnVH6BkvFHWJVL0LLvYqJwZWSioAdaxBd4ZxGzqjNPBse6\nwveXK95v9t+NmMXmprv5q8sDiD5taYg23CGSmc0UYo4KBCrZ9b7hdSTXEQKBgH3t\n6uHzWIzvzySNG6D9s7T8ApJINZHxJTplwQFJII+rjaQ2Xa2ystGrV4/d9fxHcmcL\nYpZ3zOKvIYYUkXNQwIz35poadTx8dDwwAbV2xCmr+RsEtcfBBp2AraJmNpiOxho0\ns6BwvM+QFkKMM71t82ed19AX+9FU/oUKm6S4Rp4hAoGBAIz+U+3dfRZpTTTuJOyn\nWoOPtNRQHV7XBiDJR1fGdZyBWGqeptEnJtmkMmXdIUTvSyD5LTaPG4gEggaGJsI8\nozZgrau84FN17v7awdNI8DzDhNSwSrT8btlfR99kf9anf+y4uZlZU7Ba1a7PU/qB\nWtLW9LYhUpTxh/2GUqAEWOIj\n-----END PRIVATE KEY-----\n",
+  "client_email": "alford45-691@raspi-alford-45-sensor.iam.gserviceaccount.com",
+  "client_id": "114704798465762024368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alford45-691%40raspi-alford-45-sensor.iam.gserviceaccount.com"
+}
